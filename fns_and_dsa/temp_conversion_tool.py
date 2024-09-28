@@ -2,15 +2,15 @@
 FAHRENHEIT_TO_CELSIUS_FACTOR = 5/9
 CELSIUS_TO_FAHRENHEIT_FACTOR = 9/5
 
-CELSIUS_OFFSET = 32  # For Fahrenheit to Celsius and vice versa
+#CELSIUS_OFFSET = 32  # For Fahrenheit to Celsius and vice versa
 
 # Function to convert Fahrenheit to Celsius
 def convert_to_celsius(fahrenheit):
-    return (fahrenheit - CELSIUS_OFFSET) * FAHRENHEIT_TO_CELSIUS_FACTOR
+    return (fahrenheit - 32) * FAHRENHEIT_TO_CELSIUS_FACTOR
 
 # Function to convert Celsius to Fahrenheit
 def convert_to_fahrenheit(celsius):
-    return (celsius * CELSIUS_TO_FAHRENHEIT_FACTOR) + CELSIUS_OFFSET
+    return (celsius * CELSIUS_TO_FAHRENHEIT_FACTOR) + 32
 
 # Main function to prompt user for input and perform conversion
 def main():
