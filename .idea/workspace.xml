@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9718ff9-43f7-485b-9d4e-aa63753ef116" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/main-0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control-flow/alx_be_python" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/python_introduction/alx_be_python" beforeDir="false" afterPath="$PROJECT_DIR$/python_introduction/alx_be_python" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python_introduction/alx_be_python/alx_be_python" beforeDir="false" />
     </list>
@@ -13,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/programming_paradigm/programming_paradigm" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/programming_paradigm/alx_be_python" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
