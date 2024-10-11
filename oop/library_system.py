@@ -13,7 +13,7 @@ class EBook(Book):
         self.file_size = file_size
 
     def __str__(self):
-        return f"Ebook: {super().__str__()}, File Size: {self.file_size}KB"
+        return f"EBook: {super().__str__()}, File Size: {self.file_size}KB"
 
 
 class PrintBook(Book):
@@ -33,6 +33,6 @@ class Library:
         self.books.append(book)
 
     def list_books(self):
-        print("Books: ")
+        print("Book: ")
         for book in self.books:
             print(book)
