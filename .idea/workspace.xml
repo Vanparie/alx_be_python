@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f125227-c118-4424-bb77-bccba7dcb899" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oop/class_static_methods_demo.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oop/library_system.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oop/main1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oop/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/main3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oop/polymorphism_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/basic_operations.py" beforeDir="false" />
