@@ -1,14 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f125227-c118-4424-bb77-bccba7dcb899" name="Changes" comment="" />
+    <list default="true" id="6f125227-c118-4424-bb77-bccba7dcb899" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oop/library_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/main1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/basic_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/control-flow/daily_reminder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/control-flow/match_case_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/control-flow/multiplication_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/control-flow/pattern_drawing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/control-flow/weather_advice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/basic_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/finance_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/future_age_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/hours_to_seconds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/rectangle_area.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/simple_interest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/weather_advice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/alx_be_python" beforeDir="false" afterPath="$PROJECT_DIR$/oop/alx_be_python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/alx_be_python/oop" beforeDir="false" afterPath="$PROJECT_DIR$/oop/alx_be_python/oop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/alx_be_python/oop/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/alx_be_python/oop/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/book_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/book_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm" beforeDir="false" afterPath="$PROJECT_DIR$/programming_paradigm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python" beforeDir="false" afterPath="$PROJECT_DIR$/programming_paradigm/alx_be_python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/bank_account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/library_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/main-0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/main_library_management.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/robust_division_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/simple_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm/test_simple_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_introduction" beforeDir="false" afterPath="$PROJECT_DIR$/python_introduction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_introduction/alx_be_python" beforeDir="false" afterPath="$PROJECT_DIR$/python_introduction/alx_be_python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_introduction/alx_be_python/alx_be_python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_introduction/basic_operations.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/oop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nIYrZWivRDLwidxfKzAidfw3WU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f125227-c118-4424-bb77-bccba7dcb899" name="Changes" comment="" />
+      <created>1728662268186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728662268186</updated>
+    </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

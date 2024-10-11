@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/alx_be_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/control-flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fns_and_dsa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop/alx_be_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop/alx_be_python/oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/programming_paradigm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/programming_paradigm/alx_be_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_introduction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_introduction/alx_be_python" vcs="Git" />
+  </component>
+</project>
