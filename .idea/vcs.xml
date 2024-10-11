@@ -11,6 +11,10 @@
     <mapping directory="$PROJECT_DIR$/control-flow/control-flow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fns_and_dsa" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop/alx_be_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop/alx_be_python/oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop/oop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/programming_paradigm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/programming_paradigm/alx_be_python" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/programming_paradigm/alx_be_python/programming_paradigm" vcs="Git" />
