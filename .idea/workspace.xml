@@ -8,9 +8,12 @@
       <change afterPath="$PROJECT_DIR$/oop/main2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oop/main3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/oop/polymorphism_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alx_be_python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow" beforeDir="false" afterPath="$PROJECT_DIR$/control-flow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/control-flow/alx_be_python" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_introduction/finance_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_introduction/future_age_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_introduction/hours_to_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_introduction/rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_introduction/simple_interest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/alx_be_python" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/arithmetic_operations.py" afterDir="false" />
@@ -21,10 +24,10 @@
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/control-flow/pattern_drawing.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/control-flow/weather_advice.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/arithmetic_operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/explore_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/explore_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/explore_datetime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/shopping_list_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/temp_conversion_tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/shopping_list_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/shopping_list_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fns_and_dsa/fns_and_dsa/temp_conversion_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/fns_and_dsa/temp_conversion_tool.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/basic_operations.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/finance_calculator.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fns_and_dsa/python_introduction/future_age_calculator.py" beforeDir="false" />
