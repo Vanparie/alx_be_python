@@ -1,0 +1,16 @@
+[submodule "control-flow"]
+    path = control-flow
+    url = git@github.com:Vanparie/alx_be_python.git # Replace with the actual URL of your control-flow repository
+
+[submodule "fns_and_dsa"]
+    path = fns_and_dsa
+    url = git@github.com:Vanparie/alx_be_python.git
+
+[submodule "programming_paradigm"]
+    path = programming_paradigm
+    url = git@github.com:Vanparie/alx_be_python.git
+
+[submodule "python_introduction"]
+    path = python_introduction
+    url = git@github.com:Vanparie/alx_be_python.git
+
